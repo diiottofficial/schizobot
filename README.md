@@ -1,0 +1,3 @@
+# schizobot
+
+A discord bot
